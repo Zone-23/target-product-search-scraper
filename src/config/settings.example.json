@@ -1,0 +1,9 @@
+{
+    "proxy": {
+        "country": "US",
+        "type": "residential"
+    },
+    "scrape_config": {
+        "retry_count": 3
+    }
+}
